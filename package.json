@@ -1,0 +1,30 @@
+{
+    "title": "Boiler plate",
+    "name": "chinet",
+    "version": "51.0",
+    "description": "A freelancer portfolio HTML theme for Bootstrap.",
+    "keywords": [
+        "css",
+        "html",
+        "responsive",
+        "theme",
+        "template"
+    ],
+    },
+
+    {
+    "license": "MIT",
+    "author": "chinet chima",
+    
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/chinetEmpire/Boilerplate.git"
+    },
+    "dependencies": {
+       
+        "bootstrap": "3.7.1",
+        "jquery": "3.4.1",
+    
+    },
+    
+}
