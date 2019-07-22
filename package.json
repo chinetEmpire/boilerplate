@@ -22,7 +22,7 @@
     },
     "dependencies": {
        
-        "bootstrap": "3.7.1",
+        "bootstrap": "3.3.7",
         "jquery": "3.4.1",
     
     },
